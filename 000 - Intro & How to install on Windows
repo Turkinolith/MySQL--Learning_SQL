@@ -1,0 +1,38 @@
+
+*****************************
+**** What is a Database? ****
+*****************************
+
+DB is a collection of data stored in a format that can be easily accessed.
+
+To manage DB's we use an app called a Database Management System or DBMS.
+We send it queries and it gives data back.
+
+SQL is the language used to work with relational Databases.
+
+
+RDBMS -
+Some of the most popular are:
+MySQL
+SQL Server
+Oracle
+
+Each has slight differences to their SQL implementation but most of the same commands will work regardless.
+
+This course will use MySQL
+
+**Installing MySQL on windows**
+*******************************
+https://www.mysql.com/
+
+Visual program for interacting with the DB directly - mySQL Workbench
+
+** Overview of an SQL Database Schema **
+****************************************
+In every Database there are the following objects:
+Tables - Where we store the data.
+Views - Virtual tables where we can combine data from multiple tables and put them in a view.
+Stored Procedures - Little programs stored in the DB for queries. IE: A stored procedure to get all the customers in a city.
+Functions -
+
+
